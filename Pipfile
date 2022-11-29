@@ -18,6 +18,7 @@ google-cloud-core = "*"
 google-cloud = "*"
 google-cloud-storage = "*"
 setuptools = "*"
+pandas-gbq = "*"
 
 [dev-packages]
 
