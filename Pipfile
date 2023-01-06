@@ -20,6 +20,7 @@ google-cloud-storage = "*"
 setuptools = "*"
 pandas-gbq = "*"
 nltk = "*"
+spacy = "*"
 
 [dev-packages]
 
