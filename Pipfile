@@ -22,6 +22,8 @@ pandas-gbq = "*"
 nltk = "*"
 spacy = "*"
 plotly = "*"
+html-to-json = "*"
+lxml = "*"
 
 [dev-packages]
 
